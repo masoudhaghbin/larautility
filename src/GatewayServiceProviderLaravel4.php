@@ -29,7 +29,7 @@ class GatewayServiceProviderLaravel4 extends ServiceProvider
 
 
         // for laravel 4.2
-        $this->package('larautility/gateway',null,__DIR__.'/../');
+        $this->package('larautility/gateway',null, __DIR__ . '/gateway/');
 		
 		
 		if (
