@@ -2,7 +2,7 @@
   "name": "larautility/gateway",
   "homepage": "https://github.com/larautility/gateway",
   "description": "A Laravel package for connecting to all Iranian's payment  gateways",
-  "version": "3.3.6",
+  "version": "1.0",
   "keywords": [
     "laravel",
     "iran",
